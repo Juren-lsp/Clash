@@ -8,7 +8,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "机场订阅"
+    url: "https://52pokemon.xz61.cn/api/v1/client/subscribe?token=f3dfcefc4aead9561d1e360b771026fb&flag=meta"
       
 # 用于下载订阅时指定UA
 global-ua: clash
