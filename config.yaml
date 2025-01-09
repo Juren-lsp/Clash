@@ -3,7 +3,7 @@ proxy-providers:
   🛫 我的机场 1:
     type: http
     ## 机场订阅链接，使用 Clash 链接
-    url: "https://3a4go.no-mad-world.club/link/xYKjRqkXu7pRlyxI?clash=3&extend=1"
+    url: "订阅"
     path: ./proxies/airport1.yaml
     interval: 86400
     ## 初步筛选需要的节点，可有效减轻路由器压力，支持正则表达式，不筛选可删除此配置项
@@ -17,7 +17,7 @@ proxy-providers:
 
   🛫 我的机场 2:
     type: http
-    url: "https://52pokemon.xz61.cn/api/v1/client/subscribe?token=f3dfcefc4aead9561d1e360b771026fb&flag=meta"
+    url: "订阅"
     path: ./proxies/airport2.yaml
     interval: 86400
     filter: "(?i)港|hk|hongkong|hong kong|台|tw|taiwan|日本|jp|japan|新|sg|singapore|美|us|unitedstates|united states"
