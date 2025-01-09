@@ -105,7 +105,7 @@ rule-providers:
      behavior: classical
      format: yaml
      path: ./rules/GameDownloadCN.yaml
-     url: "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml"
+     url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml"
      interval: 86400
 
   SteamCN:
